@@ -1,12 +1,12 @@
 body {
-  background-color: lightgreen;
+  background-color: rgb(255, 136, 0);
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #006064;
+  background-color: #f3ef00;
   color: white;
   text-align: center;
   padding: 20px;
@@ -59,7 +59,7 @@ header {
 }
 
 footer {
-  background-color: #004d40;
+  background-color: #100857;
   color: white;
   text-align: center;
   padding: 10px;

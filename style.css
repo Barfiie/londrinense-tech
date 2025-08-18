@@ -1,6 +1,6 @@
 body {
   background-color: lightgreen;
-  font-family: Arial, sans-serif;
+  font-family: Cursive;
   margin: 0;
   padding: 0;
 }
@@ -30,7 +30,8 @@ header {
 }
 
 .top-right .btn:hover {
-  background-color: #00796b;
+  color: Blue;
+  background-color: white 
 }
 
 .container {
@@ -50,7 +51,10 @@ header {
   font-weight: bold;
   border: 2px dashed #00796b;
 }
-
+.foto img{
+  width: 305px;
+  height: 255px;
+}
 .sobre {
   width: 300px;
   background-color: #ffffff;

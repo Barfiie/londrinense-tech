@@ -1,12 +1,12 @@
 body {
-  background-color: rgb(255, 136, 0);
-  font-family: Arial, sans-serif;
+  background-color: rgb(241, 225, 79);
+  font-family: Cursive;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #f3ef00;
+  background-color: #d3a307;
   color: white;
   text-align: center;
   padding: 20px;
@@ -20,7 +20,7 @@ header {
 }
 
 .top-right .btn {
-  background-color: #004d40;
+  background-color: #d3a307;
   color: white;
   padding: 6px 12px;
   text-decoration: none;
@@ -30,7 +30,8 @@ header {
 }
 
 .top-right .btn:hover {
-  background-color: #00796b;
+  color: black;
+  background-color: #2a1caf;
 }
 
 .container {
@@ -48,9 +49,11 @@ header {
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  border: 2px dashed #00796b;
 }
-
+.foto img{
+  width: 305px;
+  height: 255px;
+}
 .sobre {
   width: 300px;
   background-color: #ffffff;
@@ -59,7 +62,7 @@ header {
 }
 
 footer {
-  background-color: #100857;
+  background-color: #d3a307;
   color: white;
   text-align: center;
   padding: 10px;

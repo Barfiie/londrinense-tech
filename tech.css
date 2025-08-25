@@ -51,6 +51,11 @@ header {
   border: 2px dashed #00796b;
 }
 
+.foto img{
+  width: 305px;
+  height: 255px;
+}
+
 .sobre {
   width: 300px;
   background-color: #ffffff;
@@ -73,5 +78,5 @@ a {
 }
 
 p{
-  color:#8c6900;
+  color:#000000;
 }
